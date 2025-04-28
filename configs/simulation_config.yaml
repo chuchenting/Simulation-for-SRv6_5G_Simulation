@@ -1,0 +1,8 @@
+topology:
+  num_nodes: 20
+  edge_probability: 0.3
+simulation:
+  failure_rate: 0.01
+  num_iterations: 100
+traffic:
+  num_packets_per_slice: 1000

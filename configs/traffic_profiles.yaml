@@ -1,0 +1,66 @@
+eMBB:
+  packet_size_mean: 1000
+  packet_size_std: 200
+  priority: 2
+  latency_sensitivity: 0.5
+  throughput_sensitivity: 0.8
+URLLC:
+  packet_size_mean: 100
+  packet_size_std: 20
+  priority: 1
+  latency_sensitivity: 0.9
+  throughput_sensitivity: 0.3
+mMTC:
+  packet_size_mean: 50
+  packet_size_std: 10
+  priority: 3
+  latency_sensitivity: 0.2
+  throughput_sensitivity: 0.4
+video_streaming:
+  packet_size_mean: 1500
+  packet_size_std: 300
+  priority: 2
+  latency_sensitivity: 0.4
+  throughput_sensitivity: 0.9
+game_streaming:
+  packet_size_mean: 500
+  packet_size_std: 100
+  priority: 1
+  latency_sensitivity: 0.95
+  throughput_sensitivity: 0.6
+metaverse:
+  packet_size_mean: 1200
+  packet_size_std: 250
+  priority: 2
+  latency_sensitivity: 0.7
+  throughput_sensitivity: 0.7
+iot:
+  packet_size_mean: 30
+  packet_size_std: 5
+  priority: 3
+  latency_sensitivity: 0.1
+  throughput_sensitivity: 0.2
+ar_vr:
+  packet_size_mean: 800
+  packet_size_std: 150
+  priority: 1
+  latency_sensitivity: 0.8
+  throughput_sensitivity: 0.6
+autonomous_vehicles:
+  packet_size_mean: 200
+  packet_size_std: 40
+  priority: 1
+  latency_sensitivity: 0.99
+  throughput_sensitivity: 0.4
+smart_grid:
+  packet_size_mean: 80
+  packet_size_std: 15
+  priority: 2
+  latency_sensitivity: 0.3
+  throughput_sensitivity: 0.3
+healthcare_monitoring:
+  packet_size_mean: 150
+  packet_size_std: 30
+  priority: 1
+  latency_sensitivity: 0.85
+  throughput_sensitivity: 0.5
