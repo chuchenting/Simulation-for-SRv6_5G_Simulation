@@ -1,5 +1,3 @@
-# my_ml_controller.py (Place this inside the sdn_controller/ folder)
-
 import os
 import sys
 
