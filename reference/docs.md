@@ -1,1 +1,2 @@
-[1] P. T. Dat, A. Kanno, N. Yamamoto, and T. Kawanishi, "Experimental Verification of Segment Routing Methods in 5G Mobile Networks," in *IEEE Access*, vol. 10, pp. 2565-2574, 2022, doi: 10.1109/ACCESS.2021.3134567.
+[1]Aneta Kolackova, J. Hosek, J. Jerabek, and P. Masek, “Experimental Verification of Segment Routing Methods in 5G+ Mobile Transport Networks,” pp. 38–43, Oct. 2021, doi: https://doi.org/10.1109/icumt54235.2021.9631750.
+‌
